@@ -1,0 +1,1822 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1">
+    <!-- Title vertion 1.1 -->
+    <title>
+	Welcome to 20/20 Perfect Vision Land Records I2
+</title>
+    <!-- /Title -->
+    <!-- Keywords, descriptions, language -->
+    <meta name="description" content="Access property records, Access real properties" /><meta name="keywords" content="property records, land records, real estate records, real data, real property" />
+    
+	<!-- /Keywords, descriptions, language -->
+    <!-- Java Scripts -->
+    <script type="text/javascript">window.onerror = handleError; function handleError(msg, url, line) { return true; } </script>
+    <!-- /Java Scripts -->
+<link href="App_Themes/Blue/Common.css" rel="stylesheet" type="text/css" media="all" /><link href="App_Themes/Blue/ContextMenu.css" rel="stylesheet" type="text/css" media="all" /><link href="App_Themes/Blue/CountyInfo.css" rel="stylesheet" type="text/css" media="all" /><link href="App_Themes/Blue/GridStyle.css" rel="stylesheet" type="text/css" media="all" /><link href="App_Themes/Blue/ImageViewer.css" rel="stylesheet" type="text/css" media="all" /><link href="App_Themes/Blue/Print.css" rel="stylesheet" type="text/css" media="all" /><link href="App_Themes/Blue/TabStyle.css" rel="stylesheet" type="text/css" media="all" /><link href="App_Themes/Blue/WidgetStyle.css" rel="stylesheet" type="text/css" media="all" /></head>
+<body scroll="no" onload="ClientLoad(100);" onunload="doUnload()" style="overflow: hidden">
+    <form name="form1" method="post" action="default.aspx" id="form1">
+<div>
+<input type="hidden" name="ScriptManager1_HiddenField" id="ScriptManager1_HiddenField" value="" />
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__LASTFOCUS" id="__LASTFOCUS" value="" />
+<input type="hidden" name="__VIEWSTATE" id="
+__VIEWSTATE" value="" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['form1'];
+if (!theForm) {
+    theForm = document.form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/Suffolk/WebResource.axd?d=fJlCG45S-KTIPf1SW_9N6Ikb9a7KJCTnJxG6JxKIsXFsx2ZGp5pSNXbNrnED7JtT3hMN3Oaw7TBJ1dWNC9AQLStb2ZI1&amp;t=636284489271971599" type="text/javascript"></script>
+
+
+<script type="text/javascript">
+//<![CDATA[
+var mt = null;function setfocus(btid){try{if(document.getElementById(btid) !=null){document.getElementById(btid).focus();if ( mt != null){window.clearTimeout(mt);}}}catch(e){mt = setTimeout("setfocus('" + btid + "');",100);}}var m_scrollTimer;function GetScrollPos(contentPanelID, ScrollPosChangeID , ScrollPosID){    var div = document.getElementById(contentPanelID);    document.getElementById(ScrollPosID).value = div.scrollTop;    var com;     document.getElementById(ScrollPosChangeID).value = "false";    com = "SetScrollPos('" + contentPanelID + "','"  + ScrollPosChangeID + "','" + ScrollPosID +  "')";    m_scrollTimer = setTimeout( com , 100);}function SetScrollPos(contentPanelID,ScrollPosChangeID,ScrollPosID){    var sc = document.getElementById(ScrollPosChangeID);    var v = sc.value;    if( document.getElementById(ScrollPosChangeID).value == "True")    {       window.clearTimeout(m_scrollTimer);       var div = document.getElementById(contentPanelID);       div.scrollTop = document.getElementById(ScrollPosID).value;    }    else    {       com = "SetScrollPos('" + contentPanelID + "','"  + ScrollPosChangeID + "','" + ScrollPosID +  "')";       m_scrollTimer = setTimeout( com , 100);    }}function BlockerResize(blocker, img)
+           {
+               var ww;
+               var wh;
+               var blockerwidth = document.getElementById(blocker).style.width;
+               var blockerheight = document.getElementById(blocker).style.height;
+
+                if(document.getElementById(blocker).style.width.length > 0)
+                {
+                    ww = doInt(blockerwidth) - 50;
+                    wh = doInt(blockerheight) - 50;
+                    if(document.getElementById(img) != null)
+                    {
+                        document.getElementById(img).style.width = ww + 'px';
+                        document.getElementById(img).style.height = wh + 'px';
+                    }
+                }
+            }
+            function doInt(num)
+            {
+                num = num + '';
+                var n;
+                while (num.length !=0)
+                {
+                   n = num.length;
+                   if(num.charCodeAt(n - 1) > 57 || num.charCodeAt(n - 1) < 48) 
+                   {
+                        num  = num.substr(0,n-1) ;
+                   }
+                   else
+                   {
+                       return parseInt(num);
+                   }
+                }
+                return parseInt(num);
+                }function RefreshNavigator(){__doPostBack('ButRefreshNavigator','');}function RefreshBasket(){__doPostBack('ButRefreshBasket','');}function RegisterUser(){__doPostBack('RegisterUserButton','');}var _ClosePopupDelay;
+function CloseControl(content, arrow, arrowscount)
+{
+    //debugger;
+    if(document.getElementById(content) != null)
+    {
+        document.getElementById(content).style.display = "none";
+        document.getElementById(arrow).style.display = "none";
+        
+        for (var i = 1; i <= arrowscount; i++)
+        {
+            var rid = arrow + (i + '');
+            document.getElementById(rid).style.display = "none";
+        }
+    }
+    window.clearTimeout(_ClosePopupDelay);
+}
+function TimeoutClose(content, arrow, arrowcount)
+{
+       // debugger;
+     _ClosePopupDelay = setTimeout( "CloseControl('" + content +"','" + arrow +"','" +  arrowcount + "');" , 32500); 
+}
+function DoPost( but) 
+{
+    //debugger;
+    __doPostBack(but,'');
+}
+
+function init(targetid)
+{
+    debugger;
+    var elt = document.getElementById(targetid);//this.get_element();
+    var popupTableBody = document.createElement("tbody");
+    var popupTableRow = document.createElement("tr");
+    var calloutCell = document.createElement("td");
+    var calloutTable = document.createElement("table");
+    var calloutTableBody = document.createElement("tbody");
+    var calloutTableRow = document.createElement("tr");
+    var iconCell = document.createElement("td");
+    var closeCell = document.createElement("td");
+    var popupTable = this._popupTable = document.createElement("table");
+    var calloutArrowCell = this._calloutArrowCell = document.createElement("td");
+    var warningIconImage = this._warningIconImage = document.createElement("img");
+    var closeImage = this._closeImage = document.createElement("img");
+    var errorMessageCell = this._errorMessageCell = document.createElement("td");
+	// 
+    // popupTable
+    //
+    popupTable.cellPadding = 0;
+    popupTable.cellSpacing = 0;
+    popupTable.border = 0;
+    popupTable.width = "200px";//this.get_width();
+    popupTable.height = "200px";
+    popupTable.style.display = 'block';
+    //
+    // popupTableRow
+    //        
+    popupTableRow.vAlign = 'top';
+    popupTableRow.style.height = "100%";
+    //
+    // calloutCell
+    //
+    calloutCell.width = 20;
+    calloutCell.align = "right";
+    calloutCell.style.height = "100%";
+    calloutCell.style.verticalAlign = "top";
+    //
+    // calloutTable
+    //
+    calloutTable.cellPadding = 0;
+    calloutTable.cellSpacing = 0;
+    calloutTable.border = 0;
+    calloutTable.style.height = "100%";
+    //
+    // _calloutArrowCell
+    //
+    calloutArrowCell.align = "right";
+    calloutArrowCell.vAlign = "top";
+    calloutArrowCell.style.fontSize = "1px";
+    calloutArrowCell.style.paddingTop = "8px";
+    //
+    // iconCell
+    //
+    iconCell.width = 20;
+    iconCell.style.borderTop = "1px solid black";
+    iconCell.style.borderLeft = "1px solid black";
+    iconCell.style.borderBottom = "1px solid black";
+    iconCell.style.padding = "5px";
+    iconCell.style.backgroundColor = 'LemonChiffon';
+    //
+    // _warningIconImage
+    //
+    warningIconImage.border = 0;
+    warningIconImage.src = "";//this.get_warningIconImageUrl();
+    //
+    // _errorMessageCell
+    //
+    errorMessageCell.style.backgroundColor = 'LemonChiffon';
+    errorMessageCell.style.fontFamily = 'verdana';
+    errorMessageCell.style.fontSize = '10px';
+    errorMessageCell.style.padding = "5px";
+    errorMessageCell.style.borderTop = "1px solid black";
+    errorMessageCell.style.borderBottom = "1px solid black";
+    errorMessageCell.width = '100%';
+    errorMessageCell.innerHTML = ""//this._getErrorMessage();
+    //
+    // closeCell
+    //
+    closeCell.style.borderTop = "1px solid black";
+    closeCell.style.borderRight = "1px solid black";
+    closeCell.style.borderBottom = "1px solid black";
+    closeCell.style.backgroundColor = 'lemonchiffon';
+    closeCell.style.verticalAlign = 'top';
+    closeCell.style.textAlign = 'right';
+    closeCell.style.padding = '2px';
+    //
+    // closeImage
+    //
+    closeImage.src = "";//this.get_closeImageUrl();
+    closeImage.style.cursor = 'pointer';
+    //
+    // Create the DOM tree
+    //
+        elt.parentNode.appendChild(popupTable)
+        popupTable.appendChild(popupTableBody);
+        popupTableBody.appendChild(popupTableRow);
+        popupTableRow.appendChild(calloutCell);
+        calloutCell.appendChild(calloutTable);
+        calloutTable.appendChild(calloutTableBody);
+        calloutTableBody.appendChild(calloutTableRow);
+        calloutTableRow.appendChild(calloutArrowCell);
+        popupTableRow.appendChild(iconCell);
+        iconCell.appendChild(warningIconImage);
+        popupTableRow.appendChild(errorMessageCell);
+        popupTableRow.appendChild(closeCell);
+        closeCell.appendChild(closeImage);
+        //
+        // initialize callout arrow
+        //
+        var div = document.createElement("div");
+        div.style.fontSize = "1px";
+        div.style.position = "relative";
+        div.style.left = "1px";
+        div.style.borderTop = "1px solid black";
+        div.style.width = "15px";
+        calloutArrowCell.appendChild(div);        
+        for(var i = 14; i > 0; i--)
+        {
+            var line = document.createElement("div");
+            line.style.width = i.toString() + "px";
+            line.style.height = "1px";
+            line.style.overflow = "hidden";
+            line.style.backgroundColor = "LemonChiffon";
+            line.style.borderLeft = "1px solid black";
+            div.appendChild(line);
+        }
+}
+//]]>
+</script>
+
+<script src="/Suffolk/ScriptResource.axd?d=x6LgPmfg_e3adg6wo6Rv21sjZFCP7DNOCDcnI_TDc1ZM9_hNifxm3qKhHEivYNBODc5Bwz147_74_aUorKRkz5ErBh4CCPeOGsV4OlsDYtQVTIED0&amp;t=ffffffffec54f2d7" type="text/javascript"></script>
+<script src="/Suffolk/ScriptResource.axd?d=gV0b_r9Ubjkp2UcH6ICq3JYWfRFCFLRqrD_PrH89zV9MTRQFN48opRsOSH-U7xkywEPWU5SY-CgYOpQDm3v2D2Q52xIj6xhALrqAm7TEebJSvrxEHn9ItSBqTuSseZl8byw1xQ2&amp;t=ffffffffec54f2d7" type="text/javascript"></script>
+<script src="Scripts/ImagingOrdering.js" type="text/javascript"></script>
+<script src="Scripts/PageManager.js" type="text/javascript"></script>
+<script src="/suffolk/default.aspx?_TSM_HiddenField_=ScriptManager1_HiddenField&amp;_TSM_CombinedScripts_=%3b%3bAjaxControlToolkit%2c+Version%3d3.5.40412.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d28f01b0e84b6d53e%3aen-US%3a1547e793-5b7e-48fe-8490-03a375b13a33%3aeffe2a26" type="text/javascript"></script>
+<script src="/Suffolk/ScriptResource.axd?d=-U7OwTmCXac1Uiyp-WZO5xtoxRmfIXK-dxYPZbBOhLlBag2yIjV6m6AeJSfJ-tm8MICuBPkcoO_iZWBOFUZCUO2QVLfuwc5XnrTXzbOV4RER4nCHZkPeZjY_bWjx1OhsJ404-8YsCJJqvW60amYjR33MH0PM1--GkhROUUTJKLuenL8l0&amp;t=ffffffffb8e7644d" type="text/javascript"></script>
+<script src="/suffolk/default.aspx?_TSM_HiddenField_=ScriptManager1_HiddenField&amp;_TSM_CombinedScripts_=%3b%3bAjaxControlToolkit%2c+Version%3d3.5.40412.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d28f01b0e84b6d53e%3aen-US%3a1547e793-5b7e-48fe-8490-03a375b13a33%3a475a4ef5%3a5546a2b%3a497ef277%3aa43b07eb%3ad2e10b12%3a37e2e5c9%3a5a682656%3a1d3ed089%3af9029856%3ad1a1d569" type="text/javascript"></script>
+<script src="App_Widgets/Scripts/stub.js" type="text/javascript"></script>
+<script src="/Suffolk/ScriptResource.axd?d=hao6H7vcjK2IswBpiAt93IR0SUL9T6T7Y4c_qYKE4Bzi57m-__d98UuI7mREqZo9JWGQlJZnUvmRofUmcF1aYNPu1vBb4Fi1asqp-gTqTyy7Z3G6yyLGwgOc6NWkQG0LlOZSTGiMlHSVHVK5BpGccnHciYNBbOxtqCcgrgMi2SOSNOKI5DmVvW5xjDINfAQv7QrGlNbvK2Avyk4CFb2_6tZzzRmlhVe4KHuUhy8s0l3RK93I0&amp;t=ffffffffbd903a89" type="text/javascript"></script>
+<script src="/Suffolk/ScriptResource.axd?d=ZYwBgjfYSPe6YKo5nHrYGRYnRBvKRBR0pMe0UMeBa7YSuA0-XiUErDW-vfxT3t6j8fOwzl8RAcvl0XrS5oC0d9NSDukTVZWZGPXnjF7qfXRsE7MiyFZYO_GB2qz3B9SNJqBVLkQmOc9KdEaM7whb2jgwenoEtgt3YdMxJ2G5JMvgouoY0&amp;t=12bf44a3" type="text/javascript"></script>
+    <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ScriptManager1', document.getElementById('form1'));
+Sys.WebForms.PageRequestManager.getInstance()._updateControls(['tUpdatePanelRefreshButtons','tHeader1$UpdatePanel','tFooter1$UpdatePanel','tQuickHelp1$UpdatePanel1','tStaticInfo1$UpdatePanel1','tCountyInfo1$UpdatePanel','tMessageBoxCtrl1$UpdatePanel1','tSystemMessage1$UpdatePanel','tNavigator1$UpdatePanel','tNavigator1$SearchCriteria1$UpdatePanel','tNavigator1$SearchOptions1$UpdatePanel','tNavigator1$SearchHelp1$UpdatePanel','tNavigator1$UpdatePanel1','tTabSettingsNavigator1$UpdatePanel1','tRegistrationForm1$UpdatePanel','tRegReport1$UpdatePanel','tReSubscribeReport1$UpdatePanel','tAccountChangeCtrl1$UpdatePanel','tPasswordChangeCtrl1$UpdatePanel1','tHistorySearchFormCtrl1$UpdatePanel','tHistoryResultFormCtrl1$UpdatePanel','tLoginCtrl1$UpdatePanel1','tSearchFormEx1$UpdatePanel','tSearchInfo1$UpdatePanel1','tTabController1$UpdatePanel1','tImageViewer1$UpdatePanel1','tCertificateViewer1$UpdatePanel1','tEncumbranceViewer1$UpdatePanel1','tDocHistoryViewer1$UpdatePanel1','tOfferAcceptance1$UpdatePanel1','tDocList1$UpdatePanel','tDocDetails1$UpdatePanel1','tSeeAlso1$UpdatePanel1','tOrderCriteriaCtrl1$UpdatePanel1','tAddToBasketCtrl1$UpdatePanel1','tBasketCtrl1$UpdatePanel','tPrintDocCtrl1$UpdatePanel1','tPrintCriteriaCtrl1$UpdatePanel1','tPayPalData1$UpdatePanel','tPayPalData2$UpdatePanel','tACSCalloutMessageChangeCriteria$ctl03'], [], [], 600);
+//]]>
+</script>
+
+    
+<div id="JsInfoPanel" style="text-align: center; font-weight: bold; font-size: 12px;">
+    <table cellpadding="5" cellspacing="5">
+        <tr>
+            <td align="center" style="font-size: large;">
+                Please enable javascript to access the site. Click <a href=http://www.masslandrecords.com/help/edpb.htm>
+                    here</a> for help.
+            </td>
+        </tr>
+    </table>
+</div>
+<div id="ScreenLoadPanel" style="text-align: center; font-weight: bold; font-size: 12px;">
+    <table cellpadding="5" cellspacing="5">
+        <tr>
+            <td align="center" style="font-size: large;">
+                Loading
+            </td>
+            <td>
+                <img src="images/Common/loader_page.gif" id="ScreenLoader1_Img1" alt="Loading" /></img>
+            </td>
+        </tr>
+    </table>
+</div>
+<script language="javascript" type="text/javascript">
+
+    var _loadTimeout;
+    doLoad();
+    //////////////////////////////////////////////////////////////////////////
+    function doLoad() {
+        var infoPanel = document.getElementById("JsInfoPanel");
+        infoPanel.style['display'] = 'none';
+
+        var screenLoadPanel = document.getElementById("ScreenLoadPanel");
+        screenLoadPanel.style['display'] = 'block';
+
+        _loadTimeout = setTimeout("showClient();", 3000);
+    }
+
+    function showClient() {
+        var screenMainPanel = document.getElementById("ScreenMainPanel");
+        screenMainPanel.style['display'] = 'block';
+
+        var screenLoadPanel = document.getElementById("ScreenLoadPanel");
+        screenLoadPanel.style['display'] = 'none';
+
+        _loadTimeout = window.clearTimeout(_loadTimeout);
+    }
+
+</script>
+
+    <div id="ScreenMainPanel" style="display: none; width: 2000px; height: 2000px">
+        <!-- Common-->
+        <div id="UpdatePanelRefreshButtons">
+	
+                <!-- refresh buttons -->
+                <input type="submit" name="ButRefreshNavigator" value="" id="ButRefreshNavigator" class="Invisible" />
+                <input type="submit" name="ButRefreshBasket" value="" id="ButRefreshBasket" class="Invisible" />
+                <input type="submit" name="RegisterUserButton" value="" id="RegisterUserButton" class="Invisible" />
+                <!-- /refresh buttons -->
+                <!-- Tooptip for criteria change -->
+                <div id="ACSCalloutMessageChangeCriteria_RightArrow" style="height:0px;width:15px;position:absolute;top:80px;left:35px;display:block;border-top:1px solid #000000;background-color:LemonChiffon;z-index:440;">
+
+	</div><div id="ACSCalloutMessageChangeCriteria_RightArrow1" style="height:1px;width:15px;position:absolute;top:81px;left:285px;overflow:hidden;background-color:LemonChiffon;z-index:441;border-right:1px solid #000000;">
+
+	</div><div id="ACSCalloutMessageChangeCriteria_RightArrow2" style="height:1px;width:14px;position:absolute;top:82px;left:285px;overflow:hidden;background-color:LemonChiffon;z-index:441;border-right:1px solid #000000;">
+
+	</div><div id="ACSCalloutMessageChangeCriteria_RightArrow3" style="height:1px;width:13px;position:absolute;top:83px;left:285px;overflow:hidden;background-color:LemonChiffon;z-index:441;border-right:1px solid #000000;">
+
+	</div><div id="ACSCalloutMessageChangeCriteria_RightArrow4" style="height:1px;width:12px;position:absolute;top:84px;left:285px;overflow:hidden;background-color:LemonChiffon;z-index:441;border-right:1px solid #000000;">
+
+	</div><div id="ACSCalloutMessageChangeCriteria_RightArrow5" style="height:1px;width:11px;position:absolute;top:85px;left:285px;overflow:hidden;background-color:LemonChiffon;z-index:441;border-right:1px solid #000000;">
+
+	</div><div id="ACSCalloutMessageChangeCriteria_RightArrow6" style="height:1px;width:10px;position:absolute;top:86px;left:285px;overflow:hidden;background-color:LemonChiffon;z-index:441;border-right:1px solid #000000;">
+
+	</div><div id="ACSCalloutMessageChangeCriteria_RightArrow7" style="height:1px;width:9px;position:absolute;top:87px;left:285px;overflow:hidden;background-color:LemonChiffon;z-index:441;border-right:1px solid #000000;">
+
+	</div><div id="ACSCalloutMessageChangeCriteria_RightArrow8" style="height:1px;width:8px;position:absolute;top:88px;left:285px;overflow:hidden;background-color:LemonChiffon;z-index:441;border-right:1px solid #000000;">
+
+	</div><div id="ACSCalloutMessageChangeCriteria_RightArrow9" style="height:1px;width:7px;position:absolute;top:89px;left:285px;overflow:hidden;background-color:LemonChiffon;z-index:441;border-right:1px solid #000000;">
+
+	</div><div id="ACSCalloutMessageChangeCriteria_RightArrow10" style="height:1px;width:6px;position:absolute;top:90px;left:285px;overflow:hidden;background-color:LemonChiffon;z-index:441;border-right:1px solid #000000;">
+
+	</div><div id="ACSCalloutMessageChangeCriteria_RightArrow11" style="height:1px;width:5px;position:absolute;top:91px;left:285px;overflow:hidden;background-color:LemonChiffon;z-index:441;border-right:1px solid #000000;">
+
+	</div><div id="ACSCalloutMessageChangeCriteria_RightArrow12" style="height:1px;width:4px;position:absolute;top:92px;left:285px;overflow:hidden;background-color:LemonChiffon;z-index:441;border-right:1px solid #000000;">
+
+	</div><div id="ACSCalloutMessageChangeCriteria_RightArrow13" style="height:1px;width:3px;position:absolute;top:93px;left:285px;overflow:hidden;background-color:LemonChiffon;z-index:441;border-right:1px solid #000000;">
+
+	</div><div id="ACSCalloutMessageChangeCriteria_RightArrow14" style="height:1px;width:2px;position:absolute;top:94px;left:285px;overflow:hidden;background-color:LemonChiffon;z-index:441;border-right:1px solid #000000;">
+
+	</div><div id="ACSCalloutMessageChangeCriteria_RightArrow15" style="height:1px;width:1px;position:absolute;top:95px;left:285px;overflow:hidden;background-color:LemonChiffon;z-index:441;border-right:1px solid #000000;">
+
+	</div><div id="ACSCalloutMessageChangeCriteria_ctl03">
+		<div id="ACSCalloutMessageChangeCriteria_Content" style="height:130px;width:250px;left:35px;border-left:1px solid #000000;z-index:440;position:absolute;top:59px;border-right:1px solid #000000;border-bottom:1px solid #000000;border-top:1px solid #000000;background-color:LemonChiffon;">
+			<table cellspacing="0" cellpadding="5" border="0" style="height:130px;width:250px;border-collapse:collapse;">
+				<tr style="height:90px;">
+					<td valign="top" style="width:5%;"><img src="images/Icons/warning.png" style="border-width:0px;" /></td><td valign="middle" style="width:90%;">NOTE: To search a different office -or- criteria, please click on the Search Criteria menu.  To narrow your search criteria please click on the Advanced button.</td><td align="right" valign="top" onclick="CloseControl('ACSCalloutMessageChangeCriteria_Content','ACSCalloutMessageChangeCriteria_RightArrow','15');" style="width:5%;cursor:hand;"><img src="images/Common/CloseButton.gif" style="border-width:0px;" /></td>
+				</tr><tr valign="bottom" style="height:10px;">
+					<td><input type="submit" name="ACSCalloutMessageChangeCriteria$checkboxBut" value="Btn" id="ACSCalloutMessageChangeCriteria_checkboxBut" style="display:none;" /><input id="ACSCalloutMessageChangeCriteria_checkb" type="checkbox" name="ACSCalloutMessageChangeCriteria$checkb" onclick="DoPost('ACSCalloutMessageChangeCriteria$checkboxBut');" /></td><td valign="middle" colspan="2">Do not display pop-up again</td>
+				</tr>
+			</table>
+		</div>
+	</div>
+                
+                
+            
+</div>
+        <div id="Header1_UpdatePanel">
+	
+        <!-- WidgetContainer -->
+        <div id="Header1_WidgetContainer" class="WidgetContainer NoBorder WhiteBgColor">
+		
+            <!-- ContentContainer -->
+            <div id="Header1_ContentContainer1">
+			
+                <table cellpadding="0" cellspacing="0" style="height: 100%; width: 100%">
+                    <tr>
+                        <td style="text-align: left; width: 340px; height: 76px;">
+                            <img id="Header1__HeaderImg" src="App_Widgets/Common/ACSPubResource.axd?SCTTYPE=OPEN&amp;URL=top.png&amp;EXTINFO=&amp;RESTYPE=PNG&amp;ACT=VIEW" style="border-width:0px;" />
+                        </td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td colspan="2" class="Line" style="height: 3px"></td>
+                    </tr>
+                    <tr>
+                        <td colspan="2" class="Line" style="height: 2px; background-color: #efefef"></td>
+                    </tr>
+                </table>
+            
+		</div>
+            <!-- ContentContainer -->
+        
+	</div>
+        <!-- /WidgetContainer -->
+        
+    
+</div>
+
+        <div id="Footer1_UpdatePanel">
+	
+        <!-- WidgetContainer -->
+        <div id="Footer1_WidgetContainer1" class="WidgetContainer_NB">
+		
+            <!-- ContentContainer -->
+            <div id="Footer1_ContentContainer1">
+			
+                <table style="width: 100%; margin-top: 0px;" border="0" cellpadding="0" cellspacing="0">
+                    <tr>
+                        <td colspan="4" style="height: 1px; background-color: #ffffff" />
+                    </tr>
+                    <tr>
+                        <td colspan="4" style="height: 4px; background-color: #cccccc" />
+                    </tr>
+                    
+                    <tr>
+                        <td style="width: 10px" />
+                        <td class="FooterCell">
+                            <table>
+                                <tr>
+                                    <td>
+                                        © 2020 <a href="https://www.conduent.com">Conduent Business Services, LLC</a>. All Rights Reserved.
+                                    </td>
+                                    <td valign="middle">
+                                        Version: 3.5.1.3.08.19.10
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                        <td class="FooterCell" style="text-align: right">
+                            <table>
+                                <tr>
+                                    <td>
+                                        <a id="Footer1_TermsLinkBtn" href="javascript:__doPostBack('Footer1$TermsLinkBtn','')" style="display: none">Terms of Service</a>
+                                    </td>
+                                    <td width="5px">
+                                    </td>
+                                    <td>
+                                        <a id="Footer1_PrivacyLinkBtn" href="javascript:__doPostBack('Footer1$PrivacyLinkBtn','')" style="display: none">Privacy Policy</a>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                        <td style="width: 10px" />
+                    </tr>
+                </table>
+            
+		</div>
+            <!-- ContentContainer -->
+        
+	</div>
+        <!-- /WidgetContainer -->
+        
+    
+</div>
+
+        <div id="QuickHelp1_UpdatePanel1">
+	
+        <!-- WidgetContainer1 -->
+        <div id="QuickHelp1_WidgetContainer1" class="WidgetContainer WhiteBgColor">
+		    
+            <!-- ToolBarContainer -->
+            <div id="QuickHelp1_ToolBarContainer1" class="ToolBarContainer">
+			
+                <table cellpadding="0" cellspacing="0" width="100%">
+                    <tr>
+                        <td width="5">
+                        </td>
+                        <td style="text-align: left; vertical-align: middle; font-weight: bold; height:30px">
+                            <span id="QuickHelp1_LabelCaption1"></span>
+                        </td>
+                        <td align="right">
+                            
+                        </td>
+                    </tr>
+                </table>
+            
+		</div>
+            <!-- /ToolBarContainer -->
+            <!-- ContentContainer -->
+                <div id="QuickHelp1_ContentContainer1" style="overflow:auto;">
+			
+                    <table cellspacing="4" class="BodyTable">
+                        <tr>
+                            <td id="QuickHelp1_Contant" style="width: 100%; vertical-align: top; background-color: #ffffff;"><table cellpadding="5">
+	<tr>
+		<td style="height: 399px" >
+			<!--<span style="font-size: 10pt; color: #003399; font-family: 'Tahoma','sans-serif';"> 
+			    <u><b> Welcome to The New masslandrecords Website! </b></u>
+			</span>-->
+			<br/>
+			<br/>
+			<span style="font-size: 9pt; color: #000000; font-family: 'Tahoma','sans-serif';"> 
+			<ul>
+			   <!-- <li><B> Search Types </B></li>-->
+			    <!--<br />
+			       The Recorded Land Name Search is the default search and available at the top of the page. &nbsp To search by any other type (by Book, by Recorded Date, etc.) or office (Registered Land, Plans, etc.) please click on the Search Criteria menu item above
+			    <br />-->
+				<br />
+			    <li><B> For Instructions/Help: </B> </li>
+				<br />
+				<br />
+					First time on the website? Use our <a href="http://youtu.be/3WV0qcMpORw">Quick Start Tutorial</a>.
+					<br />
+					Difficulty viewing or printing documents? Use the <a href="http://youtu.be/wG6i8yTnS1E">Printing Tutorial</a>. 
+					<br />
+					How do I download documents with the Basket? Use the <a href="http://youtu.be/Rd_BPbvlIJ8">Download Tutorial</a>.
+					<br />
+					<br />
+			        Download the  <a href="#" onclick="javascript: OpenResourceProvider('Search.pdf', 'Search.pdf', 'Search Instructions')">
+                    Search Instructions</a> PDF for general search information.
+					<br />
+			        Download the  <a href="#" onclick="javascript: OpenResourceProvider('Navigating_Document_Detail_and_Image.pdf', 'Navigating_Document_Detail_and_Image.pdf', 'Image Viewing and Printing Instructions')">
+                    Image Viewing and Printing Instructions</a> PDF.
+					<br />
+			        Download the  <a href="#" onclick="javascript: OpenResourceProvider('Basket.pdf', 'Basket.pdf', 'Download (Basket) Instructions')">
+                    Download Instructions</a> PDF for Basket details. 
+			    <br />
+				<br />	
+				<br />
+			    <li> <b> This site uses Pop-ups when printing and downloading documents </b> </li>
+			    <br />
+				<br />
+			         <a href="#" onclick="javascript: setTimeout('ShowPopupTest()', 2000);">Test Pop-ups</a> to see if the pop-up blockers are properly disabled.
+    		    <br />
+				<br />
+				<br />
+    		    <li> <b> This site uses Adobe Reader when printing and downloading documents </b> </li>
+	             <br/>
+				 <br/>
+				 If you do not have Adobe Reader installed, download from <a href="http://get.adobe.com/reader/">Adobe Reader</a> .
+			    <br />
+				<br />
+				<br />
+			    <li> <b> Send us Your </b> <a href="mailto:suffolk.deeds@sec.state.ma.us">Feedback</a>. </li>
+			    <br />
+			    <br />
+				<br />
+                <li><b>Perform a </b> <a href="#" onclick="javascript: OpenPrintWizard('Search.pdf');">Printer Test</a>.</li>
+				<br/>
+                <br />
+                <br />
+			</ul>
+			</span>
+		</td>		
+	</tr>
+</table></td>
+			
+                        </tr>
+                    </table>
+            
+		</div>
+            <!-- /ContentContainer -->
+        
+	</div>
+        <!-- WidgetContainer1 -->
+        
+        
+    
+</div>
+
+        <div id="StaticInfo1_UpdatePanel1">
+	
+        <!-- WidgetContainer1 -->
+        
+        <!-- WidgetContainer1 -->
+        
+        
+    
+</div>
+
+        <div id="CountyInfo1_UpdatePanel">
+	
+        <!-- WidgetContainer -->
+        <div id="CountyInfo1_WidgetContainer" class="WidgetContainer WhiteBgColor">
+		        
+            <div id="CountyInfo1_ToolBarContainer" class="ToolBarContainer" style="height: 30px">
+			
+            
+		</div>
+            <!-- ContentContainer -->
+            <div id="CountyInfo1_ContentContainer" class="ContentContainer" style="overflow:auto;">
+			
+                <table cellspacing="0" cellpadding="0" class="BodyTable">
+                    <tr>
+                        <td id="CountyInfo1__TopImgCell" colspan="3"></td>
+			
+                    </tr>
+                    <tr>
+                        <td style="width: 5px" />
+                        <td style="width:650px">
+                            <div id="CountyInfo1__MenuePanel">
+
+			</div>
+                        </td>
+                        
+                    </tr>                    
+                    <tr>
+                        <td id="CountyInfo1_InfoContent" colspan="3" style="vertical-align: top; background-color: #ffffff;">
+<html>
+	<head></head>
+	<body>	
+		 <table width="630px" align="left" border="0" cellpadding="0" cellspacing="5">
+        <tr>
+            <td>
+                <img src="ACSPubResource.axd?&amp;URL=countyhdr.png&amp;SCTTYPE=OPEN&amp;EXTINFO=&amp;RESTYPE=JPG&amp;ACT=VIEW" />
+            </td>
+        </tr>
+        <tr>
+            <td style="background-color: #003399; color: White; height: 20px; vertical-align: middle">
+                <table>
+                    <tr>
+                        <td style="width: 100; text-align: center; color: White">
+                            <a  style="text-align: center; color: White; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold;"href="http://www.suffolkdeeds.com/">Registry Home</a>
+                        </td>
+                        <td style="width: 10; text-align: center; color: White">
+                            |
+                        </td>
+                        <td style="width: 150; text-align: center; color: White">
+                            <a  style="text-align: center; color: White; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold;"href="http://www.masslandrecords.com/">Select Another Registry</a>
+                        </td>
+                        <td style="width: 10; text-align: center; color: White">
+                            |
+							</td>
+                        <td style="width: 80; text-align: center; color: White">
+                            <a  style="text-align: center; color: White; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold;"href="mailto:suffolk.deeds@sec.state.ma.us">Contact Us</a>
+                        </td>
+                        <td style="width: 10; text-align: center; color: White">
+                            |
+						</td>
+                        <td style="width: 150; text-align: center; color: White">
+                            <a  style="text-align: center; color: White; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold;"href="http://www.sec.state.ma.us/rod/rodrefi/refiidx.htm">Refinance Calculator</a>
+                        </td>
+					
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <table width="90%" align="left" border="0" cellpadding="0" cellspacing="5">
+                    <tr>
+                        <td colspan="2" style="font-family: Arial, Helvetica, sans-serif; font-size: 18px; font-weight: bold;
+                            color: #000030">
+                            Suffolk - Stephen J. Murphy, Register
+                        </td>
+                    </tr>
+                    <tr>
+                        <td style="width:150px">
+                            <img src="ACSPubResource.axd?&amp;URL=clerk.jpg&amp;SCTTYPE=OPEN&amp;EXTINFO=&amp;RESTYPE=JPG&amp;ACT=VIEW"
+                                            width="114" height="150" />                                   
+                        </td> 
+                        <td style="text-align: left; font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #000030">
+                            24 New Chardon Street Boston MA 02114</br> 
+                            <b>Tel:</b> (617) 788-8575 </br> 
+                            <b>Fax:</b> (617) 720-4163 </br> 
+                            <b>Email: </b><a href="mailto:suffolk.deeds@sec.state.ma.us">suffolk.deeds@sec.state.ma.us </a></br>
+                            <b>Office Hours for Recording: </b></br> 
+                             Monday-Friday </br>
+                             8:30a.m. - 4:15p.m. </br>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <tr>
+            <td style="height: 15px">
+            </td>
+        </tr>
+        <tr>
+            <tr>
+                <td style="background-color: #000066; color: White; height: 20px; vertical-align: middle">
+                    <table>
+                        <tr>
+                            <td>
+                                <a  style="text-align: center; color: White; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold;"href="http://www.sec.state.ma.us/index.htm">Home</a>
+                            </td>
+                            <td style="width: 10; text-align: center; color: White">
+                                |
+                            </td>
+                          <!--  <td>
+                                <a  style="text-align: center; color: White; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold;"href="http://www.sec.state.ma.us/secsrch.htm">Search
+                            </td>
+                            <td style="width: 10; text-align: center; color: White">
+                                |
+                            </td>
+                            <td>
+                                <a  style="text-align: center; color: White; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold;"href="http://www.sec.state.ma.us/secind.htm">Index</a>
+                            </td>
+                            <td style="width: 10; text-align: center; color: White">
+                                |
+                            </td>-->
+                            <td>
+                                <a  style="text-align: center; color: White; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold;" href="mailto:registry@sec.state.ma.us">Feedback</a>
+                            </td>
+                            <td style="width: 10; text-align: center; color: White">
+                                |
+                            </td>
+                            <td>
+                                <a  style="text-align: center; color: White; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold;" href="http://www.sec.state.ma.us/rod/rodcon.htm">Contact</a>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </tr>
+        <tr>
+            <td>
+                <table width="90%" align="left" border="0" cellpadding="0" cellspacing="5">
+                    <tr>
+                        <td colspan="3" style="font-family: Arial, Helvetica, sans-serif; font-size: 18px;
+                            font-weight: bold; color: #000030">
+                            William Francis Galvin, Secretary of the Commonwealth
+                        </td>
+                    </tr>
+                    <tr>
+                        <td style="width:150px">
+                            <img src="ACSPubResource.axd?&amp;URL=sos.jpg&SCTTYPE=OPEN&EXTINFO=&RESTYPE=JPG&ACT=VIEW" />
+                        </td>
+                        <td style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #000030">
+                            Secretary of the Commonwealth
+                            <br />
+                            Citizen Information Service
+                            <br />
+                            One Ashburton Place, Room 1611
+                            <br />
+                            Boston, MA 02108-1512
+                            <br />
+                            <b>Tel:</b> (617) 727-7030
+                            <br />
+                            <b>Toll Free:</b> 1 (800) 392-6090
+                        </td>
+                        <td>
+                            <img src="ACSPubResource.axd?&amp;URL=seal.jpg&SCTTYPE=OPEN&EXTINFO=&RESTYPE=JPG&ACT=VIEW" />
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+	</body>
+</html>
+
+</td>
+			
+                    </tr>
+                </table>
+            
+		</div>
+            <!-- /ContentContainer -->
+        
+	</div>
+        
+    
+</div>
+
+        <div id="MessageBoxCtrl1_UpdatePanel1">
+	
+        <!-- ScreenBlocker -->
+        
+        <!-- /ScreenBlocker -->
+        <!-- WidgetContainer -->
+        
+        <!-- WidgetContainer -->
+        
+        
+    
+</div>
+
+        <div id="SystemMessage1_UpdatePanel">
+	
+        <!-- WidgetContainer -->
+        
+        <!-- WidgetContainer -->
+        
+    
+</div>
+
+        <!-- /Common-->
+        <!-- Navigation-->
+        <div id="Navigator1_UpdatePanel">
+	
+        <!-- WidgetContainer -->
+        <div id="Navigator1_WidgetContainer" class="NavBarContainer">
+		
+            <table style="width: 100%;" cellspacing="0" cellpadding="0">
+                <tr class="NavigatorItem">
+                    <td style="width: 5px" />
+                    <td align="left" valign="top" style="height: 10px">
+                        <table cellpadding="3px">
+                            <tr>
+                                <td style="vertical-align: middle;">
+                                    <a id="Navigator1_SearchHome1" href="javascript:__doPostBack('Navigator1$SearchHome1','')">Search Home</a>
+                                </td>
+                                <td id="Navigator1_SearchCriteriaCell" style="vertical-align: middle;">
+                                    <div id="Navigator1_SearchCriteria1_UpdatePanel">
+			
+        <div id="Navigator1_SearchCriteria1_WidgetContainer" class="WidgetContainer WhiteBgColor PopupPanel" style="border-width:2px;border-style:solid;">
+				
+            <table cellspacing="0" cellpadding="0">
+                <tr>
+                    <td colspan="3" style="width: 3px">
+                    </td>
+                </tr>
+                <tr class="NavigatorSubItem">
+                    <td style="width: 5px">
+                    </td>
+                    <td style="vertical-align: top;">
+                        <div id="Navigator1_SearchCriteria1_ControlContainer">
+					<table border="0" style="height:250px;width:450px;">
+						<tr>
+							<td valign="top"><table border="0">
+								<tr>
+									<td colspan="2">Recorded Land</td>
+								</tr><tr>
+									<td style="width:20px;"></td><td class="menue"><a id="Navigator1_SearchCriteria1_LinkButton00" href="javascript:__doPostBack('Navigator1$SearchCriteria1$LinkButton00','')">Name Search</a></td>
+								</tr><tr>
+									<td style="width:20px;"></td><td class="menue"><a id="Navigator1_SearchCriteria1_LinkButton01" href="javascript:__doPostBack('Navigator1$SearchCriteria1$LinkButton01','')">Book Search</a></td>
+								</tr><tr>
+									<td style="width:20px;"></td><td class="menue"><a id="Navigator1_SearchCriteria1_LinkButton02" href="javascript:__doPostBack('Navigator1$SearchCriteria1$LinkButton02','')">Document Search</a></td>
+								</tr><tr>
+									<td style="width:20px;"></td><td class="menue"><a id="Navigator1_SearchCriteria1_LinkButton03" href="javascript:__doPostBack('Navigator1$SearchCriteria1$LinkButton03','')">Property Search</a></td>
+								</tr><tr>
+									<td style="width:20px;"></td><td class="menue"><a id="Navigator1_SearchCriteria1_LinkButton04" href="javascript:__doPostBack('Navigator1$SearchCriteria1$LinkButton04','')">Recorded Date Search</a></td>
+								</tr><tr>
+									<td style="width:20px;"></td><td class="menue"><a id="Navigator1_SearchCriteria1_LinkButton05" href="javascript:__doPostBack('Navigator1$SearchCriteria1$LinkButton05','')">Unindexed Property Search</a></td>
+								</tr>
+							</table></td><td valign="top"><table border="0">
+								<tr>
+									<td colspan="2">Registered Land (Land Court)</td>
+								</tr><tr>
+									<td style="width:20px;"></td><td class="menue"><a id="Navigator1_SearchCriteria1_LinkButton10" href="javascript:__doPostBack('Navigator1$SearchCriteria1$LinkButton10','')">Name Search</a></td>
+								</tr><tr>
+									<td style="width:20px;"></td><td class="menue"><a id="Navigator1_SearchCriteria1_LinkButton11" href="javascript:__doPostBack('Navigator1$SearchCriteria1$LinkButton11','')">Book Search</a></td>
+								</tr><tr>
+									<td style="width:20px;"></td><td class="menue"><a id="Navigator1_SearchCriteria1_LinkButton12" href="javascript:__doPostBack('Navigator1$SearchCriteria1$LinkButton12','')">Certificate Search</a></td>
+								</tr><tr>
+									<td style="width:20px;"></td><td class="menue"><a id="Navigator1_SearchCriteria1_LinkButton13" href="javascript:__doPostBack('Navigator1$SearchCriteria1$LinkButton13','')">Document Search</a></td>
+								</tr><tr>
+									<td style="width:20px;"></td><td class="menue"><a id="Navigator1_SearchCriteria1_LinkButton14" href="javascript:__doPostBack('Navigator1$SearchCriteria1$LinkButton14','')">Property Search</a></td>
+								</tr><tr>
+									<td style="width:20px;"></td><td class="menue"><a id="Navigator1_SearchCriteria1_LinkButton15" href="javascript:__doPostBack('Navigator1$SearchCriteria1$LinkButton15','')">Recorded Date Search</a></td>
+								</tr>
+							</table></td>
+						</tr><tr>
+							<td valign="top"><table border="0">
+								<tr>
+									<td colspan="2">Plans</td>
+								</tr><tr>
+									<td style="width:20px;"></td><td class="menue"><a id="Navigator1_SearchCriteria1_LinkButton20" href="javascript:__doPostBack('Navigator1$SearchCriteria1$LinkButton20','')">Name Search</a></td>
+								</tr><tr>
+									<td style="width:20px;"></td><td class="menue"><a id="Navigator1_SearchCriteria1_LinkButton21" href="javascript:__doPostBack('Navigator1$SearchCriteria1$LinkButton21','')">Book (Year) Search</a></td>
+								</tr><tr>
+									<td style="width:20px;"></td><td class="menue"><a id="Navigator1_SearchCriteria1_LinkButton22" href="javascript:__doPostBack('Navigator1$SearchCriteria1$LinkButton22','')">Document Search</a></td>
+								</tr><tr>
+									<td style="width:20px;"></td><td class="menue"><a id="Navigator1_SearchCriteria1_LinkButton23" href="javascript:__doPostBack('Navigator1$SearchCriteria1$LinkButton23','')">Property Search</a></td>
+								</tr><tr>
+									<td style="width:20px;"></td><td class="menue"><a id="Navigator1_SearchCriteria1_LinkButton24" href="javascript:__doPostBack('Navigator1$SearchCriteria1$LinkButton24','')">Recorded Date Search</a></td>
+								</tr><tr>
+									<td style="width:20px;"></td><td class="menue"><a id="Navigator1_SearchCriteria1_LinkButton25" href="javascript:__doPostBack('Navigator1$SearchCriteria1$LinkButton25','')">Unindexed Property Search</a></td>
+								</tr>
+							</table></td><td valign="top"><table border="0">
+								<tr>
+									<td colspan="2">Registered Land Plans</td>
+								</tr><tr>
+									<td style="width:20px;"></td><td class="menue"><a id="Navigator1_SearchCriteria1_LinkButton30" href="javascript:__doPostBack('Navigator1$SearchCriteria1$LinkButton30','')">Name Search</a></td>
+								</tr><tr>
+									<td style="width:20px;"></td><td class="menue"><a id="Navigator1_SearchCriteria1_LinkButton31" href="javascript:__doPostBack('Navigator1$SearchCriteria1$LinkButton31','')">Book Search</a></td>
+								</tr><tr>
+									<td style="width:20px;"></td><td class="menue"><a id="Navigator1_SearchCriteria1_LinkButton32" href="javascript:__doPostBack('Navigator1$SearchCriteria1$LinkButton32','')">Court Case Number Search</a></td>
+								</tr><tr>
+									<td style="width:20px;"></td><td class="menue"><a id="Navigator1_SearchCriteria1_LinkButton33" href="javascript:__doPostBack('Navigator1$SearchCriteria1$LinkButton33','')">Document Search</a></td>
+								</tr><tr>
+									<td style="width:20px;"></td><td class="menue"><a id="Navigator1_SearchCriteria1_LinkButton34" href="javascript:__doPostBack('Navigator1$SearchCriteria1$LinkButton34','')">Property Search</a></td>
+								</tr><tr>
+									<td style="width:20px;"></td><td class="menue"><a id="Navigator1_SearchCriteria1_LinkButton35" href="javascript:__doPostBack('Navigator1$SearchCriteria1$LinkButton35','')">Recorded Date Search</a></td>
+								</tr>
+							</table></td>
+						</tr>
+					</table>
+				</div>
+                        <br />
+                    </td>
+                    <td style="width: 5px">
+                    </td>
+                </tr>
+            </table>
+        
+			</div>
+        <table id="Navigator1_SearchCriteria1_menuActiveSpace">
+				<tr>
+					<td style="height: 10px">
+                    <a onclick="return false;" id="Navigator1_SearchCriteria1_menuLabel" href="javascript:__doPostBack('Navigator1$SearchCriteria1$menuLabel','')" style="cursor: hand">Search Criteria</a>
+                </td>
+					<td style="height: 10px">
+                    <img id="Navigator1_SearchCriteria1_menuButton" src="images/Arrows/arrow-down.gif" style="border-width:0px;" />
+                </td>
+				</tr>
+			</table>
+			
+        
+              
+    
+		</div>
+
+
+                                </td>
+		
+                                <td id="Navigator1_SearchOptionsCell" style="vertical-align: middle;">
+                                    <div id="Navigator1_SearchOptions1_UpdatePanel">
+			
+        <div id="Navigator1_SearchOptions1_WidgetContainer" class="WidgetContainer WhiteBgColor PopupPanel" style="border-width:2px;border-style:solid;">
+				
+            <table width="250" height="80" cellspacing="0" cellpadding="0">
+                <tr>
+                    <td colspan="3" style="width: 3px">
+                    </td>
+                </tr>
+                <tr>
+                    <td width="5">
+                    </td>
+                    <td style="vertical-align: top">
+                        <div id="Navigator1_SearchOptions1_ControlContainer">
+					
+                            <table class="NavigatorSubItem" style="width:200px">
+                                <tr>
+                                    <td colspan="2" align="left">
+                                        <input id="Navigator1_SearchOptions1_DocImagesCheck" type="checkbox" name="Navigator1$SearchOptions1$DocImagesCheck" checked="checked" onclick="javascript:setTimeout('__doPostBack(\'Navigator1$SearchOptions1$DocImagesCheck\',\'\')', 0)" /><label for="Navigator1_SearchOptions1_DocImagesCheck">Popup Image Viewer</label></td>
+                                    
+                                </tr>
+                                <tr>
+                                    <td colspan="2" align="left">
+                                            <input id="Navigator1_SearchOptions1_PopupTipsCheck" type="checkbox" name="Navigator1$SearchOptions1$PopupTipsCheck" onclick="javascript:setTimeout('__doPostBack(\'Navigator1$SearchOptions1$PopupTipsCheck\',\'\')', 0)" /><label for="Navigator1_SearchOptions1_PopupTipsCheck">Do Not Show Tips</label></td>
+                                </tr>
+                                <tr id="Navigator1_SearchOptions1_DoNotShowSearchCriteriaCell">
+						<td colspan="2" align="left">
+                                            <input id="Navigator1_SearchOptions1_donotShowSearchCrit" type="checkbox" name="Navigator1$SearchOptions1$donotShowSearchCrit" onclick="javascript:setTimeout('__doPostBack(\'Navigator1$SearchOptions1$donotShowSearchCrit\',\'\')', 0)" /><label for="Navigator1_SearchOptions1_donotShowSearchCrit">Do Not Show Search Criteria</label></td>
+					</tr>
+					
+                                <tr>
+                                </tr>
+                            </table>
+                        
+				</div>
+                        <br />
+                    </td>
+                    <td width="5">
+                    </td>
+                </tr>
+            </table>
+        
+			</div>
+        <table id="Navigator1_SearchOptions1_menuActiveSpace">
+				<tr>
+					<td style="height: 10px">
+                    <a onclick="return false;" id="Navigator1_SearchOptions1_menuLabel" href="javascript:__doPostBack('Navigator1$SearchOptions1$menuLabel','')" style="cursor: hand">Search Options</a>
+                </td>
+					<td style="height: 10px">
+                    <img id="Navigator1_SearchOptions1_menuButton" src="images/Arrows/arrow-down.gif" style="border-width:0px;" />
+                </td>
+				</tr>
+			</table>
+			
+        
+    
+		</div>
+
+                                </td>
+		
+                                <!-- Help -->
+                                <td id="Navigator1_SearchHelpCell" style="vertical-align: middle;">
+                                    <div id="Navigator1_SearchHelp1_UpdatePanel">
+			
+        <div id="Navigator1_SearchHelp1_WidgetContainer" class="WidgetContainer WhiteBgColor PopupPanel" style="border-width:2px;border-style:solid;">
+				
+            <table width="280px" height="150px" cellspacing="0" cellpadding="0">
+                <tr>
+                    <td colspan="4" style="width: 3px">
+                    </td>
+                </tr>
+                <tr>
+                    <td width="5">
+                    </td>
+                    <td style="vertical-align: top">
+                        <div id="Navigator1_SearchHelp1_ControlContainer">
+					
+                        
+				</div>
+                        <br />
+                    </td>
+                    <td valign="top">
+                        <table class="NavigatorSubItem" cellpadding="1"
+                            cellspacing="1">
+                            <tr>
+                                <td style="width: 20px;">
+                                </td>
+                                <td class="menue">
+                                    <a id="Navigator1_SearchHelp1_BeginingHelp" href="javascript:__doPostBack('Navigator1$SearchHelp1$BeginingHelp','')">Begin Your Search</a>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style="width: 20px">
+                                </td>
+                                <td class="menue">
+                                    <a id="Navigator1_SearchHelp1_CertifiedCopy" href="javascript:__doPostBack('Navigator1$SearchHelp1$CertifiedCopy','')">Certified Copy</a>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style="width: 20px">
+                                </td>
+                                <td class="menue">
+                                    <a id="Navigator1_SearchHelp1_HelpMore" href="javascript:__doPostBack('Navigator1$SearchHelp1$HelpMore','')">Help With Advanced</a>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style="width: 20px;">
+                                </td>
+                                <td class="menue">
+                                    
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style="width: 20px;">
+                                </td>
+                                <td class="menue">
+                                    <a href="http://www.masslandrecords.com/help/edpb.htm" id="Navigator1_SearchHelp1_PopupDisableHelp"> 
+                                        Popup Disable Help</a>
+                                </td>
+                            </tr>
+                             <tr>
+                                <td style="width: 20px;">
+                                </td>
+                                <td class="menue">
+                                    <a href="mailto:registry@sec.state.ma.us" id="Navigator1_SearchHelp1_SearchSupportMailtTo">
+                                        Search Support</a>                                    
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style="width: 20px;">
+                                </td>
+                                <td class="menue">
+                                    <a onclick="javascript: OpenPrintWizard('Search.pdf');" id="Navigator1_SearchHelp1_TestPrinter" href="javascript:__doPostBack('Navigator1$SearchHelp1$TestPrinter','')">Test Printer</a>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style="width: 20px">
+                                </td>
+                                <td style="height: 20px">
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                    <td width="5">
+                    </td>
+                </tr>
+            </table>
+        
+			</div>
+        <table id="Navigator1_SearchHelp1_menuActiveSpace">
+				<tr>
+					<td style="height: 10px">
+                    <a onclick="return false;" id="Navigator1_SearchHelp1_menuLabel" href="javascript:__doPostBack('Navigator1$SearchHelp1$menuLabel','')" style="cursor: hand">Search Help&Support</a>
+                </td>
+					<td style="height: 10px">
+                    <img id="Navigator1_SearchHelp1_menuButton" src="images/Arrows/arrow-down.gif" style="border-width:0px;" />
+                </td>
+				</tr>
+			</table>
+			
+        
+    
+		</div>
+
+                                </td>
+		
+                                <td id="Navigator1_SearchFAQCell" style="vertical-align: middle;">
+                                    <a id="Navigator1_FAQLinkButton" href="javascript:__doPostBack('Navigator1$FAQLinkButton','')">FAQ</a>
+                                </td>
+		
+                                <td id="Navigator1_BasketCell" style="vertical-align: middle;">
+                                    <a id="Navigator1_Basket" href="javascript:__doPostBack('Navigator1$Basket','')">Basket</a>
+                                </td>
+		
+                            </tr>
+                        </table>
+                    </td>
+                    <td align="right" valign="top" style="height: 10px">
+                        <table cellpadding="0">
+                            <tr>
+                                <td>
+                                    <div id="Navigator1_UpdatePanel1">
+			
+                                            
+                                        
+		</div>
+                                </td>
+                                <td>
+                                    <table class="LocatorGateTable">
+                                        <tr>
+                                            <td>
+                                                <span id="Navigator1_CountyNameLabel"></span></td>
+                                            <td align="left">
+                                                <table id="Navigator1_LocatorTable" style="display:block;">
+			<tr>
+				<td id="Navigator1_link1">
+                                                            <a id="Navigator1_ChangeLocation" href="javascript:__doPostBack('Navigator1$ChangeLocation','')">Select Another Registry</a>
+                                                        </td>
+			</tr>
+		</table>
+		
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                    <td style="width: 5px" />
+                </tr>
+                <tr>
+                    <td colspan="4" style="height: 2px" class="Line" />
+                </tr>
+            </table>
+        
+	</div>
+        <!-- /WidgetContainer -->
+        
+    
+</div>
+
+        <!-- /Navigation-->
+        <!-- Account-->
+        <div id="TabSettingsNavigator1_UpdatePanel1">
+	
+        <!-- ScreenBlocker -->
+        
+        <!-- /ScreenBlocker -->
+        <!-- WidgetContainer -->
+        
+        <!-- /WidgetContainer -->
+        
+    
+</div>
+
+        <div id="RegistrationForm1_UpdatePanel">
+	
+        <!-- ScreenBlocker -->
+        
+        <!-- /ScreenBlocker -->
+        <!-- WidgetContainer -->
+        
+        <!-- /WidgetContainer -->
+        
+        
+    
+</div>
+
+        <div id="RegReport1_UpdatePanel">
+	
+        <!-- WidgetContainer -->
+        
+        <!-- /WidgetContainer -->
+        
+        
+    
+</div>
+
+        <div id="ReSubscribeReport1_UpdatePanel">
+	
+        <!-- WidgetContainer -->
+        
+        <!-- /WidgetContainer -->
+        
+        
+    
+</div>
+
+        <div id="AccountChangeCtrl1_UpdatePanel">
+	
+         <!-- ScreenBlocker -->
+        
+        <!-- /ScreenBlocker -->
+        <!-- WidgetContainer -->
+        
+        <!-- /WidgetContainer -->
+        
+    
+</div>
+
+        <div id="PasswordChangeCtrl1_UpdatePanel1">
+	
+        <!-- ScreenBlocker -->
+        
+        <!-- /ScreenBlocker -->
+        <!-- WidgetContainer -->
+        
+        <!-- /WidgetContainer -->
+        
+    
+</div>
+
+        <div id="HistorySearchFormCtrl1_UpdatePanel">
+	
+        <!-- ScreenBlocker -->
+        
+        <!-- /ScreenBlocker -->
+        <!-- WidgetContainer -->
+        
+        <!-- /WidgetContainer -->
+        
+    
+</div>
+
+        <div id="HistoryResultFormCtrl1_UpdatePanel">
+	
+        <!-- ScreenBlocker -->
+        
+        <!-- /ScreenBlocker -->
+        <!-- WidgetContainer -->
+        
+        <!-- /WidgetContainer -->
+        
+    
+</div>
+
+        <!-- /Account-->
+        <!-- Authorisation-->
+        <div id="LoginCtrl1_UpdatePanel1">
+	
+        <!-- ScreenBlocker -->
+        
+        <!-- /ScreenBlocker -->
+        <!-- WidgetContainer -->
+        
+        <!-- WidgetContainer -->
+        
+        
+    
+</div>
+
+        <!-- /Authorisation-->
+        <!-- Document search-->
+        <div id="SearchFormEx1_UpdatePanel">
+	
+        
+        <!-- WidgetContainer -->
+        <div id="SearchFormEx1_WidgetContainer" class="WidgetContainer NoBorder" onkeydown="javascript:
+                           if( event.which || event.keyCode) { 
+                                if ((event.which == 13) ||( event.keyCode == 13)) {
+                                    if ( document.getElementById('SearchFormEx1_btnSearch') != null){ 
+                                    __doPostBack('SearchFormEx1$btnSearch', '');
+                                    return false;
+                                    }
+                                }
+                            }else return true;">
+		
+            <!-- ContentContainer -->
+            <div id="SearchFormEx1_ContentContainer" class="MenueFontSize ContentContainer_NS">
+			
+                <table cellpadding="0" cellspacing="0">
+                    <tr>
+                        <td style="text-align: center; vertical-align: bottom; height: 30px">
+                            <div id="SearchFormEx1_ControlContainer">
+				<table id="SearchFormEx1_SF_Table1" class="cssPanel" cellspacing="6" border="0" style="width:100%;">
+					<tr>
+						<td align="center" colspan="1"><span id="SearchFormEx1_SF_Label11" class="cssTextItalic">* Business/Last Name</span></td><td align="center" colspan="1"><span id="SearchFormEx1_SF_Label13" class="cssTextItalic">First Name:</span></td><td align="center" colspan="1"><span id="SearchFormEx1_SF_Label15" class="cssTextItalic">Party Type:</span></td><td colspan="3"></td>
+					</tr><tr>
+						<td align="center" colspan="1"><input name="SearchFormEx1$ACSTextBox_LastName1" type="text" id="SearchFormEx1_ACSTextBox_LastName1" class="deftext" style="width:150px;" /></td><td align="center" colspan="1"><input name="SearchFormEx1$ACSTextBox_FirstName1" type="text" id="SearchFormEx1_ACSTextBox_FirstName1" class="text" /></td><td align="center" colspan="1"><select name="SearchFormEx1$ACSRadioButtonList_PartyType1" id="SearchFormEx1_ACSRadioButtonList_PartyType1" class="ddLst">
+							<option selected="selected" value="">Both</option>
+							<option value="D">Grantor</option>
+							<option value="I">Grantee</option>
+
+						</select></td><td colspan="3"></td>
+					</tr><tr style="display: none">
+						<td colspan="6"></td>
+					</tr><tr style="display: none">
+						<td align="center" colspan="1"><input name="SearchFormEx1$ACSTextBox_LastName2" type="text" id="SearchFormEx1_ACSTextBox_LastName2" class="text" style="width:150px;" /></td><td align="center" colspan="1"><input name="SearchFormEx1$ACSTextBox_FirstName2" type="text" id="SearchFormEx1_ACSTextBox_FirstName2" class="text" /></td><td align="center" colspan="4"><select name="SearchFormEx1$ACSRadioButtonList_PartyType2" id="SearchFormEx1_ACSRadioButtonList_PartyType2" class="ddLst">
+							<option selected="selected" value="">Both</option>
+							<option value="D">Grantor</option>
+							<option value="I">Grantee</option>
+
+						</select></td>
+					</tr><tr style="display: none">
+						<td align="center" colspan="3"><table id="SearchFormEx1_ACSRadioButtonList_Search" border="0">
+							<tr>
+								<td><input id="SearchFormEx1_ACSRadioButtonList_Search_0" type="radio" name="SearchFormEx1$ACSRadioButtonList_Search" value="1" checked="checked" /><label for="SearchFormEx1_ACSRadioButtonList_Search_0">Compressed (Punctuation and Spaces Removed)</label></td><td><input id="SearchFormEx1_ACSRadioButtonList_Search_1" type="radio" name="SearchFormEx1$ACSRadioButtonList_Search" value="3" /><label for="SearchFormEx1_ACSRadioButtonList_Search_1">Like (Exactly as Typed)</label></td>
+							</tr>
+						</table></td><td colspan="3"></td>
+					</tr><tr style="display: none">
+						<td colspan="6"></td>
+					</tr><tr style="display: none">
+						<td align="right" colspan="1"><span id="SearchFormEx1_SF_Label6" class="cssTextItalic">Document Types:</span></td><td align="left" colspan="5"><select size="4" name="SearchFormEx1$ACSDropDownList_DocumentType1" multiple="multiple" id="SearchFormEx1_ACSDropDownList_DocumentType1" class="lst" style="width:250px;">
+							<option selected="selected" value="-2">Search All Document Types</option>
+							<option value="100081">ABANDONMENT</option>
+							<option value="100083">ACCEPTANCE</option>
+							<option value="100085">AFFIDAVIT</option>
+							<option value="100010">AGREEMENT</option>
+							<option value="100011">AMENDMENT</option>
+							<option value="100109">AMENDMENT OF FINANCING STATEMENT</option>
+							<option value="100128">AMENDMENT OF MASTER DEED</option>
+							<option value="100087">APPOINTMENT</option>
+							<option value="100012">APT</option>
+							<option value="100089">ASSENT</option>
+							<option value="100014">ASSIGNMENT</option>
+							<option value="100111">ASSIGNMENT OF FINANCING STATEMENT</option>
+							<option value="100013">ASSIGNMENT OF LEASE</option>
+							<option value="100091">ATTACHMENT</option>
+							<option value="100093">BOND</option>
+							<option value="100095">BYLAW</option>
+							<option value="100097">CERT. OF CONDO EXPENSES</option>
+							<option value="100016">CERTIFICATE</option>
+							<option value="100099">COMPLAINT</option>
+							<option value="100015">CONFIRMATORY DEED</option>
+							<option value="100315">CONFIRMATORY FORECLOSURE DEED</option>
+							<option value="100113">CONTINUATION OF FINANCING STATEMENT</option>
+							<option value="100327">DEATH CERTIFICATE</option>
+							<option value="100043">DECLARATION OF HOMESTEAD</option>
+							<option value="100101">DECREE</option>
+							<option value="100017">DEED</option>
+							<option value="100103">EASEMENT</option>
+							<option value="100105">ELECTION</option>
+							<option value="100018">EVIDENCE OF POSSESSION</option>
+							<option value="100107">EXECUTION</option>
+							<option value="100301">FEDERAL LIEN</option>
+							<option value="100303">FEDERAL LIEN RELEASE</option>
+							<option value="100020">FINAL DECREE</option>
+							<option value="100021">FINANCING STATEMENT</option>
+							<option value="100019">FORCLOSURE DEED</option>
+							<option value="100036">INSTRUMENT OF TAKING</option>
+							<option value="100122">JUDGEMENT</option>
+							<option value="100023">LEASE</option>
+							<option value="100124">LICENSE</option>
+							<option value="100022">LIEN</option>
+							<option value="100126">LIS PENDENS</option>
+							<option value="100024">MASTER DEED</option>
+							<option value="100131">MERGER</option>
+							<option value="100025">MORTGAGE</option>
+							<option value="100042">MUNICIPAL LIEN CERTIFICATE</option>
+							<option value="100027">NOTICE</option>
+							<option value="100026">NOTICE OF LEASE</option>
+							<option value="100133">ORDER</option>
+							<option value="100028">ORDER OF TAKING</option>
+							<option value="100313">OTHER</option>
+							<option value="100323">PARKING AGREEMENT</option>
+							<option value="100115">PARTIAL REL FINANCING STATEMENT</option>
+							<option value="100135">PARTIAL RELEASE</option>
+							<option value="100137">POWER OF ATTORNEY</option>
+							<option value="100029">PROBATE INVENTORY</option>
+							<option value="100030">PWR</option>
+							<option value="100031">RELEASE</option>
+							<option value="100117">RELEASE/TERM FINANCING STATEMENT</option>
+							<option value="100032">REMOVAL</option>
+							<option value="100139">RESIGNATION</option>
+							<option value="100033">SEE</option>
+							<option value="100034">SKP</option>
+							<option value="100035">SOC</option>
+							<option value="100141">SUBORDINATION</option>
+							<option value="100119">SUBORDINATION OF FINANCING STATEMENT</option>
+							<option value="100037">TAX LIEN</option>
+							<option value="100143">TERMINATION</option>
+							<option value="100145">TRUST</option>
+							<option value="100147">TRUST CERT - C 184 S 35</option>
+							<option value="100321">TRUSTEES CERTIFICATE</option>
+							<option value="100332">UCC AGREEMENT</option>
+							<option value="100044">Unindexed Documents</option>
+							<option value="100038">UNIT DEED</option>
+							<option value="100039">VACATION</option>
+							<option value="100040">VOTE</option>
+							<option value="100041">WAIVER</option>
+							<option value="100317">WITHDRAWAL</option>
+
+						</select></td>
+					</tr><tr style="display: none">
+						<td colspan="6"></td>
+					</tr><tr style="display: none">
+						<td align="right" colspan="1"><span class="cssTextItalic">Towns:</span></td><td align="left" colspan="5"><select size="4" name="SearchFormEx1$ACSDropDownList_Towns1" multiple="multiple" id="SearchFormEx1_ACSDropDownList_Towns1" class="lst" style="width:250px;">
+							<option selected="selected" value="-2">Search All Towns</option>
+							<option value="-1"> Search All Towns</option>
+							<option value="100001">BOSTON</option>
+							<option value="100002">CHELSEA</option>
+							<option value="100000">MULTIPLE TOWNS</option>
+							<option value="100003">NONE</option>
+							<option value="100004">REVERE</option>
+							<option value="100005">WINTHROP</option>
+
+						</select></td>
+					</tr><tr style="display: none">
+						<td colspan="6"></td>
+					</tr><tr style="display: none">
+						<td align="center" colspan="2"><span id="SearchFormEx1_SF_Label10">Recorded Date:</span></td><td colspan="1"></td><td colspan="3" style="width:50px;"></td>
+					</tr><tr style="display: none">
+						<td align="center" colspan="1"><span id="SearchFormEx1_Label141" class="cssTextItalic">From: </span></td><td align="center" colspan="1"><span id="SearchFormEx1_Label143" class="cssTextItalic">To: </span></td><td colspan="4"></td>
+					</tr><tr style="display: none">
+						<td align="center" colspan="1"><input name="SearchFormEx1$ACSTextBox_DateFrom1" type="text" value="1/1/1973" id="SearchFormEx1_ACSTextBox_DateFrom1" class="text" /></td><td align="center" colspan="1"><input name="SearchFormEx1$ACSTextBox_DateTo1" type="text" value="4/19/2020" id="SearchFormEx1_ACSTextBox_DateTo1" class="text" /></td><td colspan="4"></td>
+					</tr><tr style="display: none">
+						<td colspan="6"></td>
+					</tr>
+				</table>
+			</div>
+                        </td>
+                        <td id="SearchFormEx1_BasicLayoutCell" style="text-align: left; vertical-align: bottom;
+                            height: 30px"><div id="SearchFormEx1_CtrlLayoutTble">
+				
+    <table style="width: 100px; height: 30px" cellpadding="0" cellspacing="0">
+        <tr>
+            <td valign="bottom" align="right">
+                <table id="SearchFormEx1_SearchBtnTable" cellpadding="0" cellspacing="1">
+					<tr>
+						<td>
+                            <input type="image" name="SearchFormEx1$btnSearch" id="SearchFormEx1_btnSearch" title="Show Selected Documents" src="images/Buttons/SearchButton.png" style="border-width:0px;" />
+                        </td>
+					</tr>
+				</table>
+				
+            </td>
+            <td valign="bottom" align="right">
+                <table id="SearchFormEx1_ResetBtnTable" cellpadding="0" cellspacing="1">
+					<tr>
+						<td>
+                            <input type="image" name="SearchFormEx1$BtnReset" id="SearchFormEx1_BtnReset" title="Reset" src="images/Buttons/ResetButton.png" style="border-width:0px;" />
+                        </td>
+					</tr>
+				</table>
+				
+            </td>
+            <td valign="bottom" align="right">
+                <table id="SearchFormEx1_AdvancedBtnTable" cellpadding="0" cellspacing="1">
+					<tr>
+						<td>
+                            <input type="image" name="SearchFormEx1$BtnAdvanced" id="SearchFormEx1_BtnAdvanced" title="Narrow Search" src="images/Buttons/AdvancedButton.png" style="border-width:0px;" />
+                        </td>
+					</tr>
+				</table>
+				
+            </td>
+            <td valign="bottom" align="right">
+                
+            </td>
+        </tr>
+        <tr>
+            <td colspan="4" style="height: 6px">
+            </td>
+        </tr>
+    </table>
+
+			</div></td>
+			
+                    </tr>
+                    <tr>
+                        <td id="SearchFormEx1_AdvLayoutCell" align="center" colspan="2"></td>
+			
+                    </tr>
+                </table>
+            
+		</div>
+            <!-- /ContentContainer -->
+        
+	</div>
+        <!-- WidgetContainer -->
+        
+    
+</div>
+
+
+        <div id="SearchInfo1_UpdatePanel1">
+	
+        <!-- WidgetContainer -->
+        <div id="SearchInfo1_WidgetContainer1" class="WidgetContainer NoBorder">
+		
+            <!-- ContentContainer -->
+            <div id="SearchInfo1_ContentContainer1" class="MenueFontSize ContentContainer_NB ">
+			
+                <table cellpadding="0" cellspacing="0" style="height: 100%; width: 100%" align="Center">
+                    <tr>
+                        <td style="width: 5px" />
+                     
+                        <td style="width: 5px;" />
+                        <td style="vertical-align: top; " >
+                        <!-- ControlContainer -->
+                            <div id="SearchInfo1_ControlContainer1">
+				<table id="SearchInfo1_SI_Table1" class="cssGenTable" cellspacing="1" border="0" style="width:100%;">
+					<tr>
+						<td align="center" style="width:100%;"><span class="cssLabelTextBold"> </span><span id="SearchInfo1_ACSLabelParam_GroupName" class="cssLabelTextBold">Recorded Land</span><span class="cssLabelTextBold"> </span><span id="SearchInfo1_ACSLabelParam_ModelName" class="cssLabelTextBold">Name Search</span><span class="cssLabelTextBold"> (Dates Available: </span><span id="SearchInfo1_ACSLabel_BegDate" class="cssLabelTextBold">01/01/1973</span><span class="cssLabelTextBold">-Current)</span></td>
+					</tr>
+				</table>
+			</div>
+                            <!-- /ControlContainer -->
+                        </td>
+                        <td style="width: 5px" />
+                    </tr>
+                </table>
+            
+		</div>
+            <!-- ContentContainer -->
+        
+	</div>
+        <!-- /WidgetContainer -->
+        
+    
+</div>
+
+        <div id="TabController1_UpdatePanel1">
+	
+        <!-- WidgetContainer -->
+        
+        <!-- /WidgetContainer -->
+        
+    
+</div>
+
+        <div id="ImageViewer1_UpdatePanel1">
+	
+        <input type="hidden" name="ImageViewer1$ScrollPos" id="ImageViewer1_ScrollPos" />
+        <input name="ImageViewer1$ScrollPosChange" type="hidden" id="ImageViewer1_ScrollPosChange" onkeypress="return OnKeyPress();" />
+        <input type="hidden" name="ImageViewer1$_imgContainerWidth" id="ImageViewer1__imgContainerWidth" value="0" />
+        <input type="hidden" name="ImageViewer1$_imgContainerHeight" id="ImageViewer1__imgContainerHeight" value="0" />
+        <input type="hidden" name="ImageViewer1$isImageViewerVisible" id="ImageViewer1_isImageViewerVisible" value="true" />
+        <input type="hidden" name="ImageViewer1$hdnWidgetSize" id="ImageViewer1_hdnWidgetSize" />
+        
+        <!-- WidgetContainer -->
+        
+        <!-- /WidgetContainer -->
+        
+        <script type="text/javascript">
+            function OnClientResizingPanel(sender, eventArgs) { var isImageViewerVisible = $get("ImageViewer1_isImageViewerVisible"); if (isImageViewerVisible == null || isImageViewerVisible.value == "false") return false; var e = sender.get_element(); var contentBlocker = $get("ImageViewer1_ContentBlocker1"); var contentPanel = $get("ImageViewer1_Contentpanel"); var widgetContainer = $get("ImageViewer1_WidgetContainer"); if (widgetContainer != null) widgetContainer.style.zIndex = '1000'; if (contentPanel != null && e.clientWidth > 0 && e.clientHeight > 0) { contentPanel.style.width = e.clientWidth + 'px'; contentPanel.style.height = (e.clientHeight - 55) + 'px'; } if (contentBlocker != null && contentPanel != null) { contentBlocker.style.left = 0 + 'px'; contentBlocker.style.top = 55 + 'px'; var width = contentPanel.style.width.replace('px', '') var height = contentPanel.style.height.replace('px', ''); contentBlocker.style.width = (width - 16) + 'px'; contentBlocker.style.height = (height - 16) + 'px';} }           
+            function OnClientUndock(sender, eventArgs) { var _widgetSize = $get("ImageViewer1_hdnWidgetSize"); var widgetContainer = $get("ImageViewer1_WidgetContainer");  _widgetSize.value = parseInt(widgetContainer.style.width) + ',' + parseInt(widgetContainer.style.height); }           
+        </script>
+        <input type="hidden" name="ImageViewer1$DragResizeExtender_ClientState" id="ImageViewer1_DragResizeExtender_ClientState" />
+    
+</div>
+
+        <div id="CertificateViewer1_UpdatePanel1">
+	
+        <input type="hidden" name="CertificateViewer1$ScrollPos" id="CertificateViewer1_ScrollPos" />
+        <input name="CertificateViewer1$ScrollPosChange" type="hidden" id="CertificateViewer1_ScrollPosChange" onkeypress="return OnKeyPress();" />
+        <input type="hidden" name="CertificateViewer1$_imgContainerWidth" id="CertificateViewer1__imgContainerWidth" value="0" />
+        <input type="hidden" name="CertificateViewer1$_imgContainerHeight" id="CertificateViewer1__imgContainerHeight" value="0" />
+        <input type="hidden" name="CertificateViewer1$isImageViewerVisible" id="CertificateViewer1_isImageViewerVisible" value="true" />
+        <input type="hidden" name="CertificateViewer1$hdnWidgetSize" id="CertificateViewer1_hdnWidgetSize" />
+        
+        <!-- WidgetContainer -->
+        
+        <!-- /WidgetContainer -->
+        
+        <script type="text/javascript">
+            function OnClientResizingPanel(sender, eventArgs) { var isImageViewerVisible = $get("ImageViewer1_isImageViewerVisible"); if (isImageViewerVisible == null || isImageViewerVisible.value == "false") return false; var e = sender.get_element(); var contentBlocker = $get("ImageViewer1_ContentBlocker1"); var contentPanel = $get("ImageViewer1_Contentpanel"); var widgetContainer = $get("ImageViewer1_WidgetContainer"); if (widgetContainer != null) widgetContainer.style.zIndex = '1000'; if (contentPanel != null && e.clientWidth > 0 && e.clientHeight > 0) { contentPanel.style.width = e.clientWidth + 'px'; contentPanel.style.height = (e.clientHeight - 55) + 'px'; } if (contentBlocker != null && contentPanel != null) { contentBlocker.style.left = 0 + 'px'; contentBlocker.style.top = 55 + 'px'; var width = contentPanel.style.width.replace('px', '') var height = contentPanel.style.height.replace('px', ''); contentBlocker.style.width = (width - 16) + 'px'; contentBlocker.style.height = (height - 16) + 'px';} }           
+            function OnClientUndock(sender, eventArgs) { var _widgetSize = $get("ImageViewer1_hdnWidgetSize"); var widgetContainer = $get("ImageViewer1_WidgetContainer");  _widgetSize.value = parseInt(widgetContainer.style.width) + ',' + parseInt(widgetContainer.style.height); }           
+        </script>
+        <input type="hidden" name="CertificateViewer1$DragResizeExtender_ClientState" id="CertificateViewer1_DragResizeExtender_ClientState" />
+    
+</div>
+
+        <div id="EncumbranceViewer1_UpdatePanel1">
+	
+        <!-- WidgetContainer -->
+        
+        <!-- /WidgetContainer -->
+        
+    
+</div>
+
+        <div id="DocHistoryViewer1_UpdatePanel1">
+	
+        <!-- WidgetContainer -->
+        
+        <!-- /WidgetContainer -->
+        
+    
+</div>
+
+        
+
+<script language="javascript" type="text/javascript">
+        function CheckChanged()
+        {
+            //debugger;
+            var checkBox = document.getElementById('OfferAcceptance1_CheckBoxAccept');
+            var continueBtn_Disable = document.getElementById('OfferAcceptance1_ContinueBtn_Disable');
+            var continueBtn_Enable = document.getElementById('OfferAcceptance1_ContinueBtn_Enable');
+            if(checkBox.checked)
+            {
+                continueBtn_Disable.style.display = "none";
+                continueBtn_Enable.style.display = "block";
+                return;
+            }
+            continueBtn_Disable.style.display = "block";
+            continueBtn_Disable.disabled = true;
+            continueBtn_Enable.style.display = "none";
+            
+        }
+</script>
+
+<div id="OfferAcceptance1_UpdatePanel1">
+	
+        <!-- WidgetContainer -->
+        
+        <!-- WidgetContainer -->
+        
+    
+</div>
+
+        <div id="DocList1_UpdatePanel">
+	
+        
+        
+        
+        
+        <input type="hidden" name="DocList1$ctl03" id="DocList1_ctl03" /><div id="DocList1_ctl04">
+
+	</div><input type="hidden" name="DocList1$ctl05" id="DocList1_ctl05" />
+    
+</div>
+
+        
+<!-- Contant -->
+<div id="DocDetails1_UpdatePanel1">
+	        
+        <input type="hidden" name="DocDetails1$PageSize" id="DocDetails1_PageSize" />
+        <input type="hidden" name="DocDetails1$PageIndex" id="DocDetails1_PageIndex" />
+        <input type="hidden" name="DocDetails1$SortExpression" id="DocDetails1_SortExpression" />        
+        <!-- WidgetContainer -->
+        
+        <!-- /WidgetContainer -->
+        
+    
+</div>
+<!-- /Contant -->
+
+        <div id="SeeAlso1_UpdatePanel1">
+	
+        <!-- ScreenBlocker -->
+        
+        <!-- /ScreenBlocker -->
+        <!-- WidgetContainer -->
+        
+        <!-- WidgetContainer -->
+        
+        
+    
+</div>
+
+        <div id="OrderCriteriaCtrl1_UpdatePanel1">
+	
+        <!-- ScreenBlocker -->
+        <div id="OrderCriteriaCtrl1_ScreenBlocker1" class="ScreenBlocker">
+		
+        
+	</div>
+        <!-- /ScreenBlocker -->
+        <!-- WidgetContainer -->
+        
+        <!-- /WidgetContainer -->
+        
+        
+    
+</div>
+
+        <!-- /Document search-->
+        <!-- Bascket-->
+        <div id="AddToBasketCtrl1_UpdatePanel1">
+	
+        <!-- WidgetContainer -->
+        
+        <!-- /WidgetContainer -->
+        
+    
+</div>
+
+        <div id="BasketCtrl1_UpdatePanel">
+	
+        <!-- WidgetContainer -->
+        
+        <!-- /WidgetContainer -->
+        
+        <input type="hidden" name="BasketCtrl1$ctl01" id="BasketCtrl1_ctl01" /><div id="BasketCtrl1_ctl02">
+
+	</div><input type="hidden" name="BasketCtrl1$ctl03" id="BasketCtrl1_ctl03" />
+    
+</div>
+
+        <!-- /Bascket-->
+        <!-- Print-->
+        <div id="PrintDocCtrl1_UpdatePanel1">
+	
+        <!-- WidgetContainer -->
+        
+        <!-- /WidgetContainer -->
+        
+    
+</div>
+
+        <div id="PrintCriteriaCtrl1_UpdatePanel1">
+	
+        <!-- ScreenBlocker -->
+        <div id="PrintCriteriaCtrl1_ScreenBlocker1" class="ScreenBlocker">
+		
+        
+	</div>
+        <!-- /ScreenBlocker -->
+        <!-- WidgetContainer -->
+        
+        <!-- /WidgetContainer -->
+        
+        
+    
+</div>
+
+        <!-- /Print-->
+        <!-- Ordering-->
+        <div id="PayPalData1_UpdatePanel">
+	
+        <!-- ScreenBlocker -->
+        
+        <!-- /ScreenBlocker -->
+        <!-- WidgetContainer -->
+        
+        <!-- /WidgetContainer -->
+        
+        
+    
+</div>
+
+        <div id="PayPalData2_UpdatePanel">
+	
+        <!-- ScreenBlocker -->
+        
+        <!-- /ScreenBlocker -->
+        <!-- WidgetContainer -->
+        
+        <!-- /WidgetContainer -->
+        
+        
+    
+</div>
+
+        <!-- /Ordering-->
+    </div>
+    <!-- ProgressBar -->
+    <div id="ProgressBar1_UpdateProgress2" style="display:none;">
+	
+        <!-- ScreenBlocker -->
+        <div id="ProgressBar1_ScreenBlocker1">
+		
+            <div id="ProgressBar1_ScrBlocker1_ContentContainer1" class="PogreesBarScrBlocker">
+			
+    <iframe width="98%" height="98%" frameborder="0"></iframe>
+
+		</div>
+
+        
+	</div>
+        <!-- /ScreenBlocker -->
+        <!-- WidgetContainer -->
+        <div id="ProgressBar1_WidgetContainer1" class="PogreesContainer">
+		
+            <table cellpadding="1" cellspacing="1" align="center">
+                <tr style="vertical-align: middle">
+                    <td>
+                        <img src="images/Common/loading.gif" id="ProgressBar1_Img1" alt="Loading" />
+                    </td>
+                </tr>
+            </table>
+        
+	</div>
+        <!-- /WidgetContainer -->
+        
+    
+</div>
+
+    <!-- /ProgressBar -->
+    
+
+<script type="text/javascript">
+//<![CDATA[
+TimeoutClose('ACSCalloutMessageChangeCriteria_Content','ACSCalloutMessageChangeCriteria_RightArrow','15');setSearchFormFocus('SearchFormEx1_ControlContainer');(function() {var fn = function() {$get("ScriptManager1_HiddenField").value = '';Sys.Application.remove_init(fn);};Sys.Application.add_init(fn);})();Sys.Application.initialize();
+Sys.Application.add_init(function() {
+    $create(ACS.Presentation.Web.DocPanel.DocPanelBehavior, {"ContentContainerId":"Header1_ContentContainer1","DocSide":0,"Height":85,"MinHeight":10,"MinWidth":1000,"ToolbarHeight":35,"VerticalOffset":25,"WidgetContainerId":"Header1_WidgetContainer","ZIndex":0,"id":"Header1_DocingExtender"}, null, null, $get("Header1_WidgetContainer"));
+});
+Sys.Application.add_init(function() {
+    $create(ACS.Presentation.Web.DocPanel.DocPanelBehavior, {"ContentContainerId":"Footer1_ContentContainer1","DocSide":3,"Height":40,"MinHeight":10,"MinWidth":1000,"ToolbarHeight":35,"WidgetContainerId":"Footer1_WidgetContainer1","id":"Footer1_DocingExtender1"}, null, null, $get("Footer1_WidgetContainer1"));
+});
+Sys.Application.add_init(function() {
+    $create(ACS.Presentation.Web.DocPanel.DocPanelBehavior, {"ContentContainerId":"QuickHelp1_ContentContainer1","HorizontalOffset":670,"HorizontalSpan":15,"MinHeight":1,"MinWidth":1,"ToolbarContainerId":"QuickHelp1_ToolBarContainer1","ToolbarHeight":35,"VerticalOffset":150,"VerticalSpan":45,"WidgetContainerId":"QuickHelp1_WidgetContainer1","ZIndex":0,"id":"QuickHelp1_DocingExtender1"}, null, null, $get("QuickHelp1_WidgetContainer1"));
+});
+Sys.Application.add_init(function() {
+    $create(ACS.Presentation.Web.DocPanel.DocPanelBehavior, {"ContentContainerId":"CountyInfo1_ContentContainer","HorizontalOffset":10,"MinHeight":1,"MinWidth":10,"ToolbarContainerId":"CountyInfo1_ToolBarContainer","ToolbarHeight":35,"VerticalOffset":150,"VerticalSpan":45,"WidgetContainerId":"CountyInfo1_WidgetContainer","Width":655,"ZIndex":0,"id":"CountyInfo1_DocingExtender"}, null, null, $get("CountyInfo1_WidgetContainer"));
+});
+Sys.Application.add_init(function() {
+    $create(Sys.Extended.UI.HoverMenuBehavior, {"PopDelay":50,"PopupPosition":3,"dynamicServicePath":"/suffolk/default.aspx","id":"Navigator1_SearchCriteria1_HoverMenuExtender1","popupElement":$get("Navigator1_SearchCriteria1_WidgetContainer")}, null, null, $get("Navigator1_SearchCriteria1_menuActiveSpace"));
+});
+Sys.Application.add_init(function() {
+    $create(Sys.Extended.UI.HoverMenuBehavior, {"PopDelay":50,"PopupPosition":3,"dynamicServicePath":"/suffolk/default.aspx","id":"Navigator1_SearchOptions1_HoverMenuExtender1","popupElement":$get("Navigator1_SearchOptions1_WidgetContainer")}, null, null, $get("Navigator1_SearchOptions1_menuActiveSpace"));
+});
+Sys.Application.add_init(function() {
+    $create(Sys.Extended.UI.HoverMenuBehavior, {"PopDelay":50,"PopupPosition":3,"dynamicServicePath":"/suffolk/default.aspx","id":"Navigator1_SearchHelp1_HoverMenuExtender1","popupElement":$get("Navigator1_SearchHelp1_WidgetContainer")}, null, null, $get("Navigator1_SearchHelp1_menuActiveSpace"));
+});
+Sys.Application.add_init(function() {
+    $create(ACS.Presentation.Web.DocPanel.DocPanelBehavior, {"DocSide":0,"Height":35,"MinHeight":10,"MinWidth":1000,"ToolbarHeight":35,"WidgetContainerId":"Navigator1_WidgetContainer","ZIndex":1300,"id":"Navigator1_DocingExtender"}, null, null, $get("Navigator1_WidgetContainer"));
+});
+Sys.Application.add_init(function() {
+    $create(ACS.Presentation.Web.DocPanel.DocPanelBehavior, {"ContentContainerId":"SearchFormEx1_ContentContainer","DocSide":0,"HeightMode":1,"HorizontalOffset":350,"HorizontalSpan":15,"MinHeight":10,"MinWidth":1,"ToolbarHeight":35,"VerticalOffset":38,"WidgetContainerId":"SearchFormEx1_WidgetContainer","ZIndex":1200,"id":"SearchFormEx1_DocingExtender"}, null, null, $get("SearchFormEx1_WidgetContainer"));
+});
+Sys.Application.add_init(function() {
+    $create(ACS.Presentation.Web.DocPanel.DocPanelBehavior, {"ContentContainerId":"SearchInfo1_ContentContainer1","DocSide":0,"Height":45,"HorizontalOffset":10,"HorizontalSpan":10,"MinHeight":10,"MinWidth":1,"ToolbarHeight":35,"VerticalOffset":110,"WidgetContainerId":"SearchInfo1_WidgetContainer1","ZIndex":0,"id":"SearchInfo1_DocingExtender1"}, null, null, $get("SearchInfo1_WidgetContainer1"));
+});
+Sys.Application.add_init(function() {
+    $create(ACS.Presentation.Web.DocPanel.DocPanelBehavior, {"DocSide":4,"Height":-1,"HorizontalOffset":1,"HorizontalSpan":1,"ToolbarHeight":0,"VerticalOffset":1,"Width":-1,"ZIndex":5000,"id":"ProgressBar1_ScrBlocker1_DocPanelExtender1"}, null, null, $get("ProgressBar1_ScrBlocker1_ContentContainer1"));
+});
+Sys.Application.add_init(function() {
+    $create(ACS.Presentation.Web.DocPanel.DocPanelBehavior, {"DocSide":4,"Height":80,"ToolbarHeight":0,"Width":80,"ZIndex":5001,"id":"ProgressBar1_DocingExtender1"}, null, null, $get("ProgressBar1_WidgetContainer1"));
+});
+Sys.Application.add_init(function() {
+    $create(Sys.UI._UpdateProgress, {"associatedUpdatePanelId":null,"displayAfter":1250,"dynamicLayout":true}, null, null, $get("ProgressBar1_UpdateProgress2"));
+});
+//]]>
+</script>
+</form>
+<script async type="text/javascript" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=133948681"></script>
+</body>
+</html>
